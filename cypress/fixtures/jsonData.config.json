@@ -1,0 +1,11 @@
+{
+  "login": {
+    "valid_email": "chidi@yopmail.com",
+    "valid_password": "Password1!!",
+    "non_existing_email": "rod@yopmal.com",
+    "invalid_email": "whwjj@"
+  },
+  "signup": {
+    "firstname": "Uma"
+  }
+}
